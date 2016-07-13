@@ -1,0 +1,25 @@
+<!--DOCTYPE html -->
+<html>
+  <head>
+    <title>Microblog</title>
+  </head>
+  <body>
+    <div>Microblog: <a href="#">Home</a></div>
+    <hr>
+      <h2>Hi, Rohit</h2>
+      <p>Destroyer says : <b>He went on a trip</b></p>
+      <p>Pencil says : <b>The Batman Trilogy is awesome</b></p>
+      <h1> {{ title }} is working</h1>
+      {% for obj in object_list %}
+        /posts/id/
+        {% url "posts:detail" id=obj.id %}
+
+        <a href='{{ obj.get_absolute_url }}'>{{ obj.title }}</a></br>     <!-- u can put /posts/{{obj.id}} -->
+        {{ obj.content }}</br>
+        {{ obj.updated }}</br>
+        {{ obj.timestamp }}</br>
+        {{ obj.id }}</br>
+
+      {% endfor %}
+  </body>
+</html>
