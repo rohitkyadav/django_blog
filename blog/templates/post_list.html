@@ -2,9 +2,16 @@
 {% block content %}
   <div class="col-sm-6 col-sm-offset-3">
   <h1> {{ title }} </h1>
-  <form>
-    <input type="text" name="q" placeholder="Search Posts" value="{{ request.GET.q }}" />
-    <input type="submit" value="Search">
+  <form method="GET" action="" class="row">
+    <div class="col-sm-6">
+      <div class="input-group">
+        <input class="form-control" type="text" name="q" placeholder="Search Posts" value="{{ request.GET.q }}" />
+        <span class="input-group-btn">
+          <!-- <input class="btn btn-default" type="submit" value="Search"> -->
+          <button class="btn btn-default" type="submit">Search <i class="fa fa-search"></i></button>
+        </span>
+      </div>
+    </div>
   </form>
 
 
@@ -18,7 +25,7 @@
       <img src="{{ obj.image.url }}" class="img-responsive" />
       {% endif %}
       
-      <div class="caption">
+      <div class="caption post-detail-item">
 
       {% if obj.draft %}<h4> Staff Only : Draft </h4>{% endif %} {% if obj.publish %}<h4> Staff Only : Future post </h4>{% endif %}
 
@@ -28,7 +35,7 @@
       <p>Author: {{ obj.user.get_full_name }}</p>
       {% endif %}
 
-      <p>{{ obj.content|linebreaks|truncatechars:120 }}</p>
+      {{ obj.get_markdown| truncatechars_html:20 }}   <!-- |truncatechars:120 -->
       <p><a href="{{ obj.get_absolute_url }}" class="btn btn-primary" role="button">View</a></p>
       </div>
       </div>

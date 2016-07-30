@@ -4,20 +4,244 @@
 		"selected_items":
 		[
 			[
-				"in",
-				"input	Tag"
+				"H",
+				"Http404"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"re",
+				"Redirect"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"is_",
+				"is_valid"
+			],
+			[
+				"email",
+				"email_qs"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"User",
+				"UserRegisterForm"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"albu",
+				"album_id"
+			],
+			[
+				"all",
+				"all_albums"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"U",
+				"UserLoginForm"
+			],
+			[
+				"logi",
+				"login_view"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"par",
+				"parent_obj"
+			],
+			[
+				"comm",
+				"comment_delete"
 			],
 			[
 				"o",
-				"objects"
+				"obj"
+			],
+			[
+				"reda",
+				"read_time_var"
+			],
+			[
+				"get",
+				"get_markdown"
+			],
+			[
+				"read",
+				"read_time"
+			],
+			[
+				"raed",
+				"read_time_min"
+			],
+			[
+				"html",
+				"html_string"
+			],
+			[
+				"in",
+				"initial_data"
+			],
+			[
+				"co",
+				"content_object"
+			],
+			[
+				"content",
+				"content_object"
+			],
+			[
+				"conte",
+				"content_object"
+			],
+			[
+				"Comme",
+				"CommentForm"
+			],
+			[
+				"Comm",
+				"CommentManager"
+			],
+			[
+				"pare",
+				"parent_obj"
+			],
+			[
+				"get_",
+				"get_absolute_url"
+			],
+			[
+				"fro",
+				"form	Tag"
+			],
+			[
+				"Co",
+				"CommentForm"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"comment",
+				"comment_form"
+			],
+			[
+				"slf",
+				"self"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"title",
+				"titleInput"
+			],
+			[
+				"tit",
+				"titleItem"
+			],
+			[
+				"n",
+				"newContent"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"p",
+				"preview-content"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"hou",
+				"hours_ahead"
+			],
+			[
+				"djan",
+				"django1"
 			],
 			[
 				"quer",
 				"queryset_list"
-			],
-			[
-				"H",
-				"Http404"
 			],
 			[
 				"Post",
@@ -32,20 +256,12 @@
 				"slug"
 			],
 			[
-				"n",
-				"new_slug"
-			],
-			[
 				"pre_save",
 				"pre_save_post_receiver"
 			],
 			[
 				"Http",
 				"HttpResponseRedirect"
-			],
-			[
-				"re",
-				"render_template"
 			],
 			[
 				"str",
@@ -96,10 +312,6 @@
 				"text-decoration"
 			],
 			[
-				"li",
-				"list-style"
-			],
-			[
 				"pad",
 				"padding"
 			],
@@ -114,14 +326,6 @@
 			[
 				"t",
 				"Toggle"
-			],
-			[
-				"h",
-				"h1	Tag"
-			],
-			[
-				"c",
-				"class	Attr"
 			],
 			[
 				"map",
@@ -160,10 +364,6 @@
 				"K_LEFT"
 			],
 			[
-				"e",
-				"event"
-			],
-			[
 				"f",
 				"False"
 			]
@@ -172,79 +372,42 @@
 	"buffers":
 	[
 		{
-			"file": "blog/posts/views.py",
+			"file": "/home/rohit/Desktop/django_music/beats/music/views.py",
 			"settings":
 			{
-				"buffer_size": 3545,
+				"buffer_size": 534,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog/posts/forms.py",
+			"file": "/home/rohit/Desktop/django_music/beats/music/models.py",
 			"settings":
 			{
-				"buffer_size": 194,
+				"buffer_size": 568,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog/templates/post_list.html",
+			"file": "/home/rohit/Desktop/django_music/beats/music/admin.py",
 			"settings":
 			{
-				"buffer_size": 1748,
+				"buffer_size": 147,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog/templates/base.html",
+			"file": "/home/rohit/Desktop/django_music/beats/music/templates/music/detail.html",
 			"settings":
 			{
-				"buffer_size": 1540,
+				"buffer_size": 11,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog/templates/post_form.html",
+			"file": "/home/rohit/Desktop/django_music/beats/music/templates/music/index.html",
 			"settings":
 			{
-				"buffer_size": 317,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/posts/models.py",
-			"settings":
-			{
-				"buffer_size": 1959,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/templates/post_detail.html",
-			"settings":
-			{
-				"buffer_size": 1804,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 252,
 				"line_ending": "Unix"
 			}
 		}
@@ -306,20 +469,43 @@
 	],
 	"file_history":
 	[
-		"/home/rohit/Desktop/django_blog/blog/blog/settings.py",
-		"/home/rohit/Desktop/django_blog/blog/templates/messages_display.html",
-		"/home/rohit/Desktop/django_blog/blog/templates/post_form.html",
-		"/home/rohit/Desktop/django_blog/blog/posts/templatetags/urlify.py",
-		"/home/rohit/Desktop/django_blog/blog/templates/post_detail.html",
-		"/home/rohit/Desktop/django_blog/blog/templates/post_list.html",
 		"/home/rohit/Desktop/django_blog/blog/templates/base.html",
-		"/home/rohit/Desktop/django_blog/blog/posts/forms.py",
-		"/home/rohit/Desktop/django_blog/blog/posts/models.py",
+		"/home/rohit/Desktop/django_blog/blog/templates/post_detail.html",
+		"/home/rohit/Desktop/django_blog/blog/templates/comment_thread.html",
+		"/home/rohit/Desktop/django_blog/blog/blog/settings.py",
+		"/home/rohit/Desktop/django_blog/blog/accounts/views.py",
+		"/home/rohit/Desktop/django_blog/blog/posts/views.py",
+		"/home/rohit/Desktop/django_blog/blog/accounts/forms.py",
+		"/home/rohit/Desktop/django_blog/blog/comments/views.py",
 		"/home/rohit/Desktop/django_blog/blog/blog/urls.py",
+		"/home/rohit/Desktop/django_blog/blog/templates/post_form.html",
+		"/home/rohit/Desktop/django_blog/blog/templates/form.html",
+		"/home/rohit/Desktop/django_music/beats/beats/urls.py",
+		"/home/rohit/Desktop/django_music/beats/music/urls.py",
+		"/home/rohit/Desktop/django_music/beats/music/models.py",
+		"/home/rohit/Desktop/django_music/beats/music/admin.py",
+		"/home/rohit/Desktop/django_music/beats/beats/settings.py",
+		"/home/rohit/Desktop/django_blog/blog/posts/models.py",
+		"/home/rohit/Desktop/django_blog/blog/comments/models.py",
+		"/home/rohit/Desktop/django_blog/blog/comments/urls.py",
+		"/home/rohit/Desktop/django_blog/blog/templates/confirm_delete.html",
+		"/home/rohit/Desktop/django1/views.py",
 		"/home/rohit/Desktop/django_blog/blog/posts/urls.py",
-		"/home/rohit/Desktop/django_blog/blog/posts/templatetags/__init__.py",
+		"/home/rohit/Desktop/django_blog/blog/posts/utils.py",
 		"/home/rohit/Desktop/django_blog/blog/static/css/base.css",
+		"/home/rohit/Desktop/django_blog/blog/templates/post_list.html",
+		"/home/rohit/Desktop/django_blog/blog/comments/admin.py",
+		"/home/rohit/Desktop/django_blog/blog/comments/forms.py",
+		"/home/rohit/Desktop/django_blog/blog/static_cdn/css/base.css",
+		"/home/rohit/Desktop/django_blog/static_cdn/css/base.css",
 		"/home/rohit/Desktop/django_blog/blog/templates/index.html",
+		"/home/rohit/Desktop/django_blog/blog/templates/messages_display.html",
+		"/home/rohit/Desktop/django_blog/blog/posts/forms.py",
+		"/home/rohit/Desktop/django_blog/static_cdn/admin/css/base.css",
+		"/home/rohit/Desktop/django1/django1/settings.py",
+		"/home/rohit/Desktop/django1/django1/urls.py",
+		"/home/rohit/Desktop/django_blog/blog/posts/templatetags/urlify.py",
+		"/home/rohit/Desktop/django_blog/blog/posts/templatetags/__init__.py",
 		"/home/rohit/Desktop/django_blog/blog/posts/admin.py",
 		"/home/rohit/Desktop/django_blog/blog/crud.md",
 		"/home/rohit/Desktop/index.html",
@@ -328,7 +514,6 @@
 		"/home/rohit/Desktop/mysite/django1/views.py",
 		"/home/rohit/Desktop/mysite/django1/dynamic/views.py",
 		"/home/rohit/Desktop/mysite/views.py",
-		"/home/rohit/Desktop/django_blog/blog/posts/views.py",
 		"/home/rohit/Desktop/hello_flask.py",
 		"/home/rohit/Desktop/django/django1/django1/urls.py",
 		"/home/rohit/Desktop/blog/main.css",
@@ -411,29 +596,7 @@
 		"/home/rohit/Desktop/Codechef/color_room.py",
 		"/home/rohit/Desktop/Codechef/room.py",
 		"/home/rohit/Desktop/Codechef/rooms.py",
-		"/home/rohit/Desktop/Codechef/soldier.py",
-		"/home/rohit/Desktop/Codechef/soldier1.py",
-		"/home/rohit/Desktop/color.py",
-		"/home/rohit/Desktop/HTML files/afsfa.html",
-		"/home/rohit/Desktop/HTML files/interest.py",
-		"/home/rohit/Desktop/codechef.py",
-		"/home/rohit/Desktop/yup.py",
-		"/home/rohit/Desktop/Doubt/Image/Responsive_image.html",
-		"/home/rohit/Desktop/Doubt/Untitled Folder/Responsive_image.html",
-		"/home/rohit/Desktop/Doubt/alien2.png",
-		"/home/rohit/Desktop/Pillow.py",
-		"/home/rohit/Desktop/Doubt/Image/Rohit.JPG",
-		"/home/rohit/Desktop/Doubt/Responsive image.html",
-		"/home/rohit/Desktop/HTML files/word_frequency.py",
-		"/home/rohit/Desktop/HTML files/Sidebar.html",
-		"/home/rohit/Desktop/HTML files/sidebar.css",
-		"/home/rohit/Desktop/HTML files/Navbar.html",
-		"/home/rohit/Desktop/HTML files/swof[hwfopjf.html",
-		"/home/rohit/Desktop/HTML files/Push & Pull.html",
-		"/home/rohit/.config/sublime-text-3/Packages/User/html.sublime-snippet",
-		"/home/rohit/Web-Development/index.html",
-		"/home/rohit/Desktop/Dogs_Site/about.html",
-		"/home/rohit/Desktop/Dogs_Site/contact.html"
+		"/home/rohit/Desktop/Codechef/soldier.py"
 	],
 	"find":
 	{
@@ -451,11 +614,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h1",
 			"endblock",
 			"menu-toggle",
 			"())\n"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
@@ -471,24 +635,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "blog/posts/views.py",
+					"file": "/home/rohit/Desktop/django_music/beats/music/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3545,
+						"buffer_size": 534,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2016,
-								2016
+								506,
+								506
 							]
 						],
 						"settings":
@@ -496,115 +660,83 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 720.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/rohit/Desktop/django_music/beats/music/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/rohit/Desktop/django_music/beats/music/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "blog/posts/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 194,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								190,
-								190
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "blog/templates/post_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1748,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1433,
-								1433
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
 					"buffer": 3,
-					"file": "blog/templates/base.html",
+					"file": "/home/rohit/Desktop/django_music/beats/music/templates/music/detail.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1540,
+						"buffer_size": 11,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								980,
-								980
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "blog/templates/post_form.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 317,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								8,
+								8
 							]
 						],
 						"settings":
@@ -615,153 +747,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "blog/posts/models.py",
+					"buffer": 4,
+					"file": "/home/rohit/Desktop/django_music/beats/music/templates/music/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1959,
+						"buffer_size": 252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								375,
-								375
+								57,
+								57
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "blog/templates/post_detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1804,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								400,
-								400
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 7,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -784,18 +798,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.96214988645,
 			1.0
 		],
 		"rows":
